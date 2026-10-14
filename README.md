@@ -101,5 +101,3 @@ Defend like a professional.
 *Learning every day. Building useful tools. Exploring security responsibly.*
 
 **Disclaimer:** All security testing is performed in authorized environments for educational purposes and responsible security research.
-README.md
-Displaying README.md.
